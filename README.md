@@ -9,4 +9,5 @@ Tüm projeyi iconlar ve görseller ile zenginleştirdim.
 HTML5 ve CSS3 ile tasarladım.
 
 <h2> Ekran Görüntüsü </h2>
+
 ![](ezgif.com-video-to-gif.gif)
