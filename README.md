@@ -6,7 +6,7 @@ Navbar alanlarına tıklanınca direkt bağlantı kurulacak şekilde tasarım ya
 Tüm projeyi iconlar ve görseller ile zenginleştirdim.
 
 <h1> Kullandığım Teknolojiler </h1>
-HTML5 ve CSS3 kodları ile tasarım yaptım.
+HTML5 ve CSS3 ile tasarladım.
 
-
+<h2> Ekran Görüntüsü </h2>
 ![](ezgif.com-video-to-gif.gif)
